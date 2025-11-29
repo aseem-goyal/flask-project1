@@ -1,4 +1,14 @@
 ﻿[
-  { "id": 1, "name": "item1" },
-  { "id": 2, "name": "item2" }
+  {
+    "id": 1,
+    "name": "Aseem Goyal",
+    "role": "student",
+    "semester": 3
+  },
+  {
+    "id": 2,
+    "name": "Example Item",
+    "role": "demo",
+    "semester": null
+  }
 ]
